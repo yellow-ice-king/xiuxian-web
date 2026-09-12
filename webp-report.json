@@ -1,0 +1,631 @@
+{
+  "totalIn": 90427322,
+  "totalOut": 3574008,
+  "converted": [
+    {
+      "rel": "assets/miyan-bg-combat.webp",
+      "sourceRel": "assets/miyan-bg-combat.jpg",
+      "from": 161129,
+      "to": 90330,
+      "dim": "1024x1536"
+    },
+    {
+      "rel": "assets/miyan-bg-home.webp",
+      "sourceRel": "assets/miyan-bg-home.jpg",
+      "from": 215247,
+      "to": 135898,
+      "dim": "1024x1536"
+    },
+    {
+      "rel": "assets/miyan-bg-map.webp",
+      "sourceRel": "assets/miyan-bg-map.jpg",
+      "from": 261549,
+      "to": 183920,
+      "dim": "1024x1536"
+    },
+    {
+      "rel": "assets/miyan-bg-result.webp",
+      "sourceRel": "assets/miyan-bg-result.jpg",
+      "from": 238502,
+      "to": 158514,
+      "dim": "1024x1536"
+    },
+    {
+      "rel": "assets/miyan-hero-bg.webp",
+      "sourceRel": "assets/miyan-hero-bg.jpg",
+      "from": 4099336,
+      "to": 71026,
+      "dim": "608x1080"
+    },
+    {
+      "rel": "assets/miyanjing-avatar-atlas.webp",
+      "sourceRel": "assets/miyanjing-avatar-atlas.png",
+      "from": 3457921,
+      "to": 109072,
+      "dim": "768x512"
+    },
+    {
+      "rel": "assets/miyanjing-bar-highlight.webp",
+      "sourceRel": "assets/miyanjing-bar-highlight.png",
+      "from": 4774,
+      "to": 926,
+      "dim": "128x12"
+    },
+    {
+      "rel": "assets/miyanjing-bar-track.webp",
+      "sourceRel": "assets/miyanjing-bar-track.png",
+      "from": 1824,
+      "to": 806,
+      "dim": "128x12"
+    },
+    {
+      "rel": "assets/miyanjing-boss-shijin_chonghuang.webp",
+      "sourceRel": "assets/miyanjing-boss-shijin_chonghuang.png",
+      "from": 1839127,
+      "to": 96148,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-taiyin_zhenmo.webp",
+      "sourceRel": "assets/miyanjing-boss-taiyin_zhenmo.png",
+      "from": 1742846,
+      "to": 74690,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-tiebei_yaolang.webp",
+      "sourceRel": "assets/miyanjing-boss-tiebei_yaolang.png",
+      "from": 1462838,
+      "to": 88960,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-xuangu_yaojun.webp",
+      "sourceRel": "assets/miyanjing-boss-xuangu_yaojun.png",
+      "from": 1548306,
+      "to": 105700,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-xueyu_zhizhu.webp",
+      "sourceRel": "assets/miyanjing-boss-xueyu_zhizhu.png",
+      "from": 1439001,
+      "to": 73720,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-yinchiyecha.webp",
+      "sourceRel": "assets/miyanjing-boss-yinchiyecha.png",
+      "from": 2068646,
+      "to": 104956,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-yinyue_tianlang.webp",
+      "sourceRel": "assets/miyanjing-boss-yinyue_tianlang.png",
+      "from": 2073059,
+      "to": 90460,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-zhenling_leipeng.webp",
+      "sourceRel": "assets/miyanjing-boss-zhenling_leipeng.png",
+      "from": 1969736,
+      "to": 95904,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-boss-ziwen_xuanjiao.webp",
+      "sourceRel": "assets/miyanjing-boss-ziwen_xuanjiao.png",
+      "from": 1851726,
+      "to": 84696,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-button-frame.webp",
+      "sourceRel": "assets/miyanjing-button-frame.png",
+      "from": 541020,
+      "to": 9588,
+      "dim": "256x106"
+    },
+    {
+      "rel": "assets/miyanjing-button-ready.webp",
+      "sourceRel": "assets/miyanjing-button-ready.png",
+      "from": 4912,
+      "to": 932,
+      "dim": "128x32"
+    },
+    {
+      "rel": "assets/miyanjing-combat-portraits.webp",
+      "sourceRel": "assets/miyanjing-combat-portraits.png",
+      "from": 1839760,
+      "to": 99966,
+      "dim": "640x533"
+    },
+    {
+      "rel": "assets/miyanjing-corner-ornament.webp",
+      "sourceRel": "assets/miyanjing-corner-ornament.png",
+      "from": 3131,
+      "to": 1484,
+      "dim": "128x128"
+    },
+    {
+      "rel": "assets/miyanjing-divider.webp",
+      "sourceRel": "assets/miyanjing-divider.png",
+      "from": 921,
+      "to": 740,
+      "dim": "128x8"
+    },
+    {
+      "rel": "assets/miyanjing-enemy-duohun_ya.webp",
+      "sourceRel": "assets/miyanjing-enemy-duohun_ya.png",
+      "from": 1705934,
+      "to": 154130,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-enemy-shiling_shu.webp",
+      "sourceRel": "assets/miyanjing-enemy-shiling_shu.png",
+      "from": 782710,
+      "to": 41576,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-enemy-zhuye_qing.webp",
+      "sourceRel": "assets/miyanjing-enemy-zhuye_qing.png",
+      "from": 935608,
+      "to": 47766,
+      "dim": "640x640"
+    },
+    {
+      "rel": "assets/miyanjing-icon-alchemy.webp",
+      "sourceRel": "assets/miyanjing-icon-alchemy.png",
+      "from": 366566,
+      "to": 33310,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-array.webp",
+      "sourceRel": "assets/miyanjing-icon-array.png",
+      "from": 503112,
+      "to": 35596,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-arrow-down.webp",
+      "sourceRel": "assets/miyanjing-icon-arrow-down.png",
+      "from": 50612,
+      "to": 6628,
+      "dim": "228x228"
+    },
+    {
+      "rel": "assets/miyanjing-icon-arrow-left.webp",
+      "sourceRel": "assets/miyanjing-icon-arrow-left.png",
+      "from": 43944,
+      "to": 6104,
+      "dim": "227x227"
+    },
+    {
+      "rel": "assets/miyanjing-icon-arrow-right.webp",
+      "sourceRel": "assets/miyanjing-icon-arrow-right.png",
+      "from": 45112,
+      "to": 6148,
+      "dim": "229x229"
+    },
+    {
+      "rel": "assets/miyanjing-icon-arrow-up.webp",
+      "sourceRel": "assets/miyanjing-icon-arrow-up.png",
+      "from": 51399,
+      "to": 6718,
+      "dim": "230x230"
+    },
+    {
+      "rel": "assets/miyanjing-icon-bag.webp",
+      "sourceRel": "assets/miyanjing-icon-bag.png",
+      "from": 75494,
+      "to": 8766,
+      "dim": "253x253"
+    },
+    {
+      "rel": "assets/miyanjing-icon-body.webp",
+      "sourceRel": "assets/miyanjing-icon-body.png",
+      "from": 245041,
+      "to": 25122,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-compass.webp",
+      "sourceRel": "assets/miyanjing-icon-compass.png",
+      "from": 120931,
+      "to": 27496,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-hp.webp",
+      "sourceRel": "assets/miyanjing-icon-hp.png",
+      "from": 114423,
+      "to": 27416,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-mail.webp",
+      "sourceRel": "assets/miyanjing-icon-mail.png",
+      "from": 234744,
+      "to": 23130,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-market.webp",
+      "sourceRel": "assets/miyanjing-icon-market.png",
+      "from": 441743,
+      "to": 35538,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-more.webp",
+      "sourceRel": "assets/miyanjing-icon-more.png",
+      "from": 268799,
+      "to": 25466,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-qi.webp",
+      "sourceRel": "assets/miyanjing-icon-qi.png",
+      "from": 132641,
+      "to": 31066,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-rest.webp",
+      "sourceRel": "assets/miyanjing-icon-rest.png",
+      "from": 82602,
+      "to": 9672,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-retreat.webp",
+      "sourceRel": "assets/miyanjing-icon-retreat.png",
+      "from": 92606,
+      "to": 9926,
+      "dim": "250x250"
+    },
+    {
+      "rel": "assets/miyanjing-icon-sect.webp",
+      "sourceRel": "assets/miyanjing-icon-sect.png",
+      "from": 247683,
+      "to": 27612,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-settings-256.webp",
+      "sourceRel": "assets/miyanjing-icon-settings-256.png",
+      "from": 102584,
+      "to": 28324,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-stamina.webp",
+      "sourceRel": "assets/miyanjing-icon-stamina.png",
+      "from": 114140,
+      "to": 30446,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-stats.webp",
+      "sourceRel": "assets/miyanjing-icon-stats.png",
+      "from": 62319,
+      "to": 7850,
+      "dim": "253x253"
+    },
+    {
+      "rel": "assets/miyanjing-icon-talisman.webp",
+      "sourceRel": "assets/miyanjing-icon-talisman.png",
+      "from": 379679,
+      "to": 28662,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-technique.webp",
+      "sourceRel": "assets/miyanjing-icon-technique.png",
+      "from": 463163,
+      "to": 36334,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-treasure.webp",
+      "sourceRel": "assets/miyanjing-icon-treasure.png",
+      "from": 437403,
+      "to": 32002,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-icon-weight.webp",
+      "sourceRel": "assets/miyanjing-icon-weight.png",
+      "from": 122882,
+      "to": 25590,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-tile-atlas-simple-ink.webp",
+      "sourceRel": "assets/miyanjing-tile-atlas-simple-ink.png",
+      "from": 683502,
+      "to": 190054,
+      "dim": "1024x1024"
+    },
+    {
+      "rel": "assets/miyanjing-tile-atlas.webp",
+      "sourceRel": "assets/miyanjing-tile-atlas.png",
+      "from": 803782,
+      "to": 59498,
+      "dim": "1024x853"
+    },
+    {
+      "rel": "assets/miyanjing-tile-stone-texture.webp",
+      "sourceRel": "assets/miyanjing-tile-stone-texture.png",
+      "from": 2234200,
+      "to": 71290,
+      "dim": "512x512"
+    },
+    {
+      "rel": "assets/miyanjing-tile-symbols.webp",
+      "sourceRel": "assets/miyanjing-tile-symbols.png",
+      "from": 1273185,
+      "to": 117866,
+      "dim": "768x640"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/altar.webp",
+      "sourceRel": "assets/miyanjing-tiles/altar.png",
+      "from": 1796434,
+      "to": 15050,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/big_event.webp",
+      "sourceRel": "assets/miyanjing-tiles/big_event.png",
+      "from": 1852271,
+      "to": 20510,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/boss.webp",
+      "sourceRel": "assets/miyanjing-tiles/boss.png",
+      "from": 1831945,
+      "to": 19538,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/cave.webp",
+      "sourceRel": "assets/miyanjing-tiles/cave.png",
+      "from": 1781694,
+      "to": 19666,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/chest.webp",
+      "sourceRel": "assets/miyanjing-tiles/chest.png",
+      "from": 1862901,
+      "to": 14822,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/danger.webp",
+      "sourceRel": "assets/miyanjing-tiles/danger.png",
+      "from": 1838925,
+      "to": 15638,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/enemy.webp",
+      "sourceRel": "assets/miyanjing-tiles/enemy.png",
+      "from": 1785243,
+      "to": 14316,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/exit.webp",
+      "sourceRel": "assets/miyanjing-tiles/exit.png",
+      "from": 1797863,
+      "to": 17272,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/exit_paid.webp",
+      "sourceRel": "assets/miyanjing-tiles/exit_paid.png",
+      "from": 2034955,
+      "to": 30346,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/exit_quest.webp",
+      "sourceRel": "assets/miyanjing-tiles/exit_quest.png",
+      "from": 1881077,
+      "to": 20436,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/fog.webp",
+      "sourceRel": "assets/miyanjing-tiles/fog.png",
+      "from": 1678216,
+      "to": 5066,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/formation.webp",
+      "sourceRel": "assets/miyanjing-tiles/formation.png",
+      "from": 1870505,
+      "to": 20286,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/fortune.webp",
+      "sourceRel": "assets/miyanjing-tiles/fortune.png",
+      "from": 1778234,
+      "to": 10228,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/garden.webp",
+      "sourceRel": "assets/miyanjing-tiles/garden.png",
+      "from": 1913246,
+      "to": 23706,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/herb.webp",
+      "sourceRel": "assets/miyanjing-tiles/herb.png",
+      "from": 1671078,
+      "to": 9440,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/mine.webp",
+      "sourceRel": "assets/miyanjing-tiles/mine.png",
+      "from": 1770113,
+      "to": 16844,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/mountain.webp",
+      "sourceRel": "assets/miyanjing-tiles/mountain.png",
+      "from": 1784527,
+      "to": 14370,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/player.webp",
+      "sourceRel": "assets/miyanjing-tiles/player.png",
+      "from": 2028813,
+      "to": 21206,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/portal.webp",
+      "sourceRel": "assets/miyanjing-tiles/portal.png",
+      "from": 1802617,
+      "to": 15246,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/ruin.webp",
+      "sourceRel": "assets/miyanjing-tiles/ruin.png",
+      "from": 1858431,
+      "to": 19936,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/scent.webp",
+      "sourceRel": "assets/miyanjing-tiles/scent.png",
+      "from": 1549345,
+      "to": 5676,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/search.webp",
+      "sourceRel": "assets/miyanjing-tiles/search.png",
+      "from": 2030562,
+      "to": 15380,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/spring.webp",
+      "sourceRel": "assets/miyanjing-tiles/spring.png",
+      "from": 1786197,
+      "to": 16696,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/stone.webp",
+      "sourceRel": "assets/miyanjing-tiles/stone.png",
+      "from": 1798320,
+      "to": 12440,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/trap.webp",
+      "sourceRel": "assets/miyanjing-tiles/trap.png",
+      "from": 1979647,
+      "to": 24208,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/tribsite.webp",
+      "sourceRel": "assets/miyanjing-tiles/tribsite.png",
+      "from": 1815041,
+      "to": 17706,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/miyanjing-tiles/vein.webp",
+      "sourceRel": "assets/miyanjing-tiles/vein.png",
+      "from": 1819388,
+      "to": 15644,
+      "dim": "384x384"
+    },
+    {
+      "rel": "assets/preview/miyanjing-tile-atlas-simple-ink-scaleup-v2.webp",
+      "sourceRel": "assets/preview/miyanjing-tile-atlas-simple-ink-scaleup-v2.png",
+      "from": 985880,
+      "to": 226798,
+      "dim": "1024x1024"
+    }
+  ],
+  "rewritten": [
+    "assets/miyan-bg-combat.jpg -> assets/miyan-bg-combat.webp",
+    "assets/miyan-bg-home.jpg -> assets/miyan-bg-home.webp",
+    "assets/miyan-bg-map.jpg -> assets/miyan-bg-map.webp",
+    "assets/miyan-bg-result.jpg -> assets/miyan-bg-result.webp",
+    "assets/miyan-hero-bg.jpg -> assets/miyan-hero-bg.webp",
+    "assets/miyanjing-avatar-atlas.png -> assets/miyanjing-avatar-atlas.webp",
+    "assets/miyanjing-bar-highlight.png -> assets/miyanjing-bar-highlight.webp",
+    "assets/miyanjing-bar-track.png -> assets/miyanjing-bar-track.webp",
+    "assets/miyanjing-boss-shijin_chonghuang.png -> assets/miyanjing-boss-shijin_chonghuang.webp",
+    "assets/miyanjing-boss-taiyin_zhenmo.png -> assets/miyanjing-boss-taiyin_zhenmo.webp",
+    "assets/miyanjing-boss-tiebei_yaolang.png -> assets/miyanjing-boss-tiebei_yaolang.webp",
+    "assets/miyanjing-boss-xuangu_yaojun.png -> assets/miyanjing-boss-xuangu_yaojun.webp",
+    "assets/miyanjing-boss-xueyu_zhizhu.png -> assets/miyanjing-boss-xueyu_zhizhu.webp",
+    "assets/miyanjing-boss-yinchiyecha.png -> assets/miyanjing-boss-yinchiyecha.webp",
+    "assets/miyanjing-boss-yinyue_tianlang.png -> assets/miyanjing-boss-yinyue_tianlang.webp",
+    "assets/miyanjing-boss-zhenling_leipeng.png -> assets/miyanjing-boss-zhenling_leipeng.webp",
+    "assets/miyanjing-boss-ziwen_xuanjiao.png -> assets/miyanjing-boss-ziwen_xuanjiao.webp",
+    "assets/miyanjing-button-frame.png -> assets/miyanjing-button-frame.webp",
+    "assets/miyanjing-button-ready.png -> assets/miyanjing-button-ready.webp",
+    "assets/miyanjing-combat-portraits.png -> assets/miyanjing-combat-portraits.webp",
+    "assets/miyanjing-corner-ornament.png -> assets/miyanjing-corner-ornament.webp",
+    "assets/miyanjing-divider.png -> assets/miyanjing-divider.webp",
+    "assets/miyanjing-enemy-duohun_ya.png -> assets/miyanjing-enemy-duohun_ya.webp",
+    "assets/miyanjing-enemy-shiling_shu.png -> assets/miyanjing-enemy-shiling_shu.webp",
+    "assets/miyanjing-enemy-zhuye_qing.png -> assets/miyanjing-enemy-zhuye_qing.webp",
+    "assets/miyanjing-icon-alchemy.png -> assets/miyanjing-icon-alchemy.webp",
+    "assets/miyanjing-icon-array.png -> assets/miyanjing-icon-array.webp",
+    "assets/miyanjing-icon-arrow-down.png -> assets/miyanjing-icon-arrow-down.webp",
+    "assets/miyanjing-icon-arrow-left.png -> assets/miyanjing-icon-arrow-left.webp",
+    "assets/miyanjing-icon-arrow-right.png -> assets/miyanjing-icon-arrow-right.webp",
+    "assets/miyanjing-icon-arrow-up.png -> assets/miyanjing-icon-arrow-up.webp",
+    "assets/miyanjing-icon-bag.png -> assets/miyanjing-icon-bag.webp",
+    "assets/miyanjing-icon-body.png -> assets/miyanjing-icon-body.webp",
+    "assets/miyanjing-icon-compass.png -> assets/miyanjing-icon-compass.webp",
+    "assets/miyanjing-icon-hp.png -> assets/miyanjing-icon-hp.webp",
+    "assets/miyanjing-icon-mail.png -> assets/miyanjing-icon-mail.webp",
+    "assets/miyanjing-icon-market.png -> assets/miyanjing-icon-market.webp",
+    "assets/miyanjing-icon-more.png -> assets/miyanjing-icon-more.webp",
+    "assets/miyanjing-icon-qi.png -> assets/miyanjing-icon-qi.webp",
+    "assets/miyanjing-icon-rest.png -> assets/miyanjing-icon-rest.webp",
+    "assets/miyanjing-icon-retreat.png -> assets/miyanjing-icon-retreat.webp",
+    "assets/miyanjing-icon-sect.png -> assets/miyanjing-icon-sect.webp",
+    "assets/miyanjing-icon-settings-256.png -> assets/miyanjing-icon-settings-256.webp",
+    "assets/miyanjing-icon-stamina.png -> assets/miyanjing-icon-stamina.webp",
+    "assets/miyanjing-icon-stats.png -> assets/miyanjing-icon-stats.webp",
+    "assets/miyanjing-icon-talisman.png -> assets/miyanjing-icon-talisman.webp",
+    "assets/miyanjing-icon-technique.png -> assets/miyanjing-icon-technique.webp",
+    "assets/miyanjing-icon-treasure.png -> assets/miyanjing-icon-treasure.webp",
+    "assets/miyanjing-icon-weight.png -> assets/miyanjing-icon-weight.webp",
+    "assets/miyanjing-tile-atlas-simple-ink.png -> assets/miyanjing-tile-atlas-simple-ink.webp",
+    "assets/miyanjing-tile-atlas.png -> assets/miyanjing-tile-atlas.webp",
+    "assets/miyanjing-tile-stone-texture.png -> assets/miyanjing-tile-stone-texture.webp",
+    "assets/miyanjing-tile-symbols.png -> assets/miyanjing-tile-symbols.webp",
+    "assets/preview/miyanjing-tile-atlas-simple-ink-scaleup-v2.png -> assets/preview/miyanjing-tile-atlas-simple-ink-scaleup-v2.webp",
+    "dynamic tile png -> webp"
+  ],
+  "removed": 81
+}

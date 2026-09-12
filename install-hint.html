@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>手机安装提示</title>
+  <style>
+    html, body { margin: 0; background: #10151d; color: #e9edf4; font: 16px/1.7 system-ui, "Microsoft YaHei", sans-serif; }
+    .wrap { max-width: 640px; margin: 0 auto; padding: 32px 20px 48px; }
+    h1 { font-size: 22px; margin: 0 0 12px; color: #f4d689; }
+    p { margin: 8px 0; }
+    .card { background: #1b2230; border: 1px solid rgba(213, 163, 74, 0.35); border-radius: 14px; padding: 16px 18px; margin: 14px 0; }
+    .card strong { color: #f4d689; }
+    code { background: rgba(255,255,255,0.08); border-radius: 6px; padding: 2px 7px; }
+    .back { display: inline-block; margin-top: 18px; color: #8fd8c6; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>把《修仙搜打撤》加到手机桌面</h1>
+    <p>网页版已经是可安装的 PWA：手机浏览器打开游戏网址后，可以“添加到主屏幕”，之后会像 App 一样从桌面直接进入，全屏游玩。</p>
+
+    <div class="card">
+      <strong>iPhone（Safari）</strong><br>
+      1. 打开游戏网址<br>
+      2. 点底部“分享”按钮<br>
+      3. 选“添加到主屏幕”<br>
+      4. 点右上角“添加”
+    </div>
+    <div class="card">
+      <strong>Android（Chrome / Edge）</strong><br>
+      1. 打开游戏网址<br>
+      2. 点浏览器右上角菜单“⋯”<br>
+      3. 选“安装应用 / 添加到主屏幕”<br>
+      4. 按提示确认
+    </div>
+
+    <p>温馨提示：当前临时网址由本机隧道转发，电脑关掉后网址会失效；正式长期玩需要把 <code>web-dist</code> 上传到 Netlify / Vercel / Cloudflare Pages，得到一个固定网址后，再加一次主屏幕即可。</p>
+    <a class="back" href="./">返回游戏</a>
+  </div>
+</body>
+</html>
