@@ -145,6 +145,106 @@
     "sha256": "5973c4e4b3a76a986ad7ac538dc02aa2029f2c6197dda8376645a095b00911e6"
   },
   {
+    "path": "assets/miyanjing-elite-0_a.webp",
+    "size": 172090,
+    "sha256": "4bb60fb6659dd4d232f7c2fc42c8894e88c51a7e7c8974e69d97972f0d250c97"
+  },
+  {
+    "path": "assets/miyanjing-elite-0_b.webp",
+    "size": 145094,
+    "sha256": "ee52cddb4420936ff9586af50aae0eb1d758a906675a3e7a1776b8e9c686dcaa"
+  },
+  {
+    "path": "assets/miyanjing-elite-1_a.webp",
+    "size": 171280,
+    "sha256": "ce3f5ee16da3cd838767c5011a02ff07a163641a0b74c746e063e386ab6e29f0"
+  },
+  {
+    "path": "assets/miyanjing-elite-1_b.webp",
+    "size": 185078,
+    "sha256": "2061c7963830fb123ab2121d3a0ca2b9f6e9e0d2fc1d341b4706f9213a3744c8"
+  },
+  {
+    "path": "assets/miyanjing-elite-2_a.webp",
+    "size": 158826,
+    "sha256": "9579eb2753ff35efa941d7aefadedc2d45f58fda725a8086fbbd8ade5716f975"
+  },
+  {
+    "path": "assets/miyanjing-elite-2_b.webp",
+    "size": 143926,
+    "sha256": "d8b0da2fb3a20fb18fa5d20334cceb9b3dd696854fd23984b0cf077c5cf6d768"
+  },
+  {
+    "path": "assets/miyanjing-elite-3_a.webp",
+    "size": 155166,
+    "sha256": "5bc4be9df6284577b915a299eba5dfdd2897369761b929c8f03dc3c90dcf4a9f"
+  },
+  {
+    "path": "assets/miyanjing-elite-3_b.webp",
+    "size": 150328,
+    "sha256": "9cca1add759d579ad88996953a60bb2d8a41802a01175c885075dda5b9d597ec"
+  },
+  {
+    "path": "assets/miyanjing-elite-4_a.webp",
+    "size": 171320,
+    "sha256": "f924f4c742bf786f4437817ef7a28d60ead6440e926a9e452b5aeb831590eade"
+  },
+  {
+    "path": "assets/miyanjing-elite-4_b.webp",
+    "size": 174266,
+    "sha256": "e23116560c1b3d81f4fb7d16ca32d88e8a6945065da7c63ea84f8dab26d6a53a"
+  },
+  {
+    "path": "assets/miyanjing-elite-5_a.webp",
+    "size": 162448,
+    "sha256": "a15b6e2ea58323672642e2a79012ded723d7f6617d786be1bd5f4d81971efd29"
+  },
+  {
+    "path": "assets/miyanjing-elite-5_b.webp",
+    "size": 161364,
+    "sha256": "930969e6ec6240b5a7b046bb7df31d20b9ccbc9e3d930c41552d1ed3b742cb00"
+  },
+  {
+    "path": "assets/miyanjing-elite-6_a.webp",
+    "size": 165262,
+    "sha256": "1a4fe0d5cdf91fcb613fc2958ea72f0a30d232633c0b597254a188d05e933c6a"
+  },
+  {
+    "path": "assets/miyanjing-elite-6_b.webp",
+    "size": 154420,
+    "sha256": "024043bb89e5569023ef6a18db116b5ab56de2e2a81530308e0f8380dbd87151"
+  },
+  {
+    "path": "assets/miyanjing-elite-7_a.webp",
+    "size": 141568,
+    "sha256": "ea896ba785bdbb6d6cd7ade9ce482ba956288706875a55a9c4dbf7b652cb7d9a"
+  },
+  {
+    "path": "assets/miyanjing-elite-7_b.webp",
+    "size": 176070,
+    "sha256": "17a4955a055e6b0cf9c5d714110260ee46f54f7a9ac88797497af5e1758f9d01"
+  },
+  {
+    "path": "assets/miyanjing-elite-8_a.webp",
+    "size": 150128,
+    "sha256": "6e39cd7456087c6df0754e64e0e9256840093d625fe4f5db11ed7173868c57f3"
+  },
+  {
+    "path": "assets/miyanjing-elite-8_b.webp",
+    "size": 168890,
+    "sha256": "29985079ce62b17905a7583c89cf8c2e08b9a0e7394ad1551ab2a3537ada3771"
+  },
+  {
+    "path": "assets/miyanjing-elite-9_a.webp",
+    "size": 206992,
+    "sha256": "0e4e8f23b32d78492af011537bdedb554bf62434d05ec1c85accdda4602e14c7"
+  },
+  {
+    "path": "assets/miyanjing-elite-9_b.webp",
+    "size": 205870,
+    "sha256": "f6c880a7d7ce6e0434fd48ab234933e6fddd1d19ec23c65bed54b8e99d77e242"
+  },
+  {
     "path": "assets/miyanjing-enemy-duohun_ya.webp",
     "size": 154130,
     "sha256": "597d2b41e7e8fb5862fe1653fc756aa5986263c11ac74086923bfbe10e397704"
@@ -985,6 +1085,11 @@
     "sha256": "29e71a378e4370c2aed390f76fa21e1f8b9099173feac31dd1846dd1d396cbf7"
   },
   {
+    "path": "assets/miyanjing-tiles/elite.webp",
+    "size": 27738,
+    "sha256": "91fb6c52fc5b70406b65d729be58bca9476a8dec56add6f702c48c07a15158b5"
+  },
+  {
     "path": "assets/miyanjing-tiles/enemy.webp",
     "size": 14316,
     "sha256": "45ee3bd12074551164e39a75373c7d32bb57bef0e29ab10aabe1dd2dc3711baf"
@@ -1096,8 +1201,8 @@
   },
   {
     "path": "game.bundle.js",
-    "size": 1442351,
-    "sha256": "7db9d2e2bde942e68f393cd03582dade52d93232a6131d2a80e8fef3ebcba606"
+    "size": 1458048,
+    "sha256": "9b61a16df15e0907ddfeaffe9823e09097705b5d5dcbeef087ab00bc9bd8f6cd"
   },
   {
     "path": "index.html",
@@ -1131,7 +1236,7 @@
   },
   {
     "path": "webp-report.json",
-    "size": 19550,
-    "sha256": "6ce674bf6d30fee9ec88b52f11df661af045d24cbbf98f111af32cdcbe08b423"
+    "size": 23368,
+    "sha256": "33449e735b0b4ae2570da80d3781c871c6a6b7595576f3ae133103b0a5637adc"
   }
 ]
