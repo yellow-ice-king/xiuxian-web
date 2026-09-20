@@ -194,6 +194,14 @@
   window.__WX_DEBUG__ = {
     get page() {
       return getPage();
+    },
+    // 验证脚本用的模块入口：拿到的是**页面正在用的同一个模块实例**。
+    // 以前验证脚本是自己 eval 一遍 __WX_BUNDLE 里的源码（见 tools/check-card-fx.js），
+    // 那样得到的是另一份实例，改它的状态对页面没有任何影响 —— 于是「缺图兜底」
+    // 这类断言只能靠手塞「确定还没出图的牌」的 id，插画补齐之后就没有被测对象了。
+    // 走这里才能临时改动模块状态（例如清空卡图清单）来真正逼出兜底分支。
+    require(relPath, fromPath) {
+      return requireModule(relPath, fromPath || 'pages/game/game.js');
     }
   };
 
@@ -275,6 +283,8 @@
   };
 
   const EVENT_ATTRS = [
+    { wx: 'bindload', dom: 'load' },
+    { wx: 'binderror', dom: 'error' },
     { wx: 'bindtap', dom: 'click' },
     { wx: 'catchtap', dom: 'click', stop: true },
     { wx: 'bindinput', dom: 'input' },
@@ -680,23 +690,58 @@
         return value;
       }
       const numText = Number.isInteger(num) ? String(num) : String(num);
-      return 'calc(' + numText + ' * 100vw / 750)';
+      return 'calc(' + numText + ' * var(--wx-rpx-basis) / 750)';
     };
     let out = css
       .replace(/(^|[,}\s])page([,{>\s])/g, '$1:root$2')
       .replace(/page([,{>\s])/g, ':root$1')
-      .replace(/\bview\b/g, '[data-wx-tag="view"]')
-      .replace(/\btext\b/g, '[data-wx-tag="text"]')
-      .replace(/\bbutton(?=[,{>\s.#:[+~]|$)/g, '[data-wx-tag="button"]')
-      .replace(/\bscroll-view\b/g, '[data-wx-tag="scroll-view"]')
+      // 标签选择器 → 属性选择器。这里的正则必须限定在「类型选择器位置」：
+      // 原来的 \btext\b 会把**类名里的 text 也换掉**（`-` 是词边界），于是
+      // .pile-text 被编译成 .pile-[data-wx-tag="text"]，永远匹配不上，样式静默失效。
+      // 全项目因此白丢了 11 条既有规则（.card-text / .home-goal-text / .view-position /
+      // .boss-guide-text / .fact-text / .wh-temp-text / .wh-page-text /
+      // .card-reward-hint-text 等），这次一并修好。
+      .replace(/(^|[\s,>+~(])view(?=[\s,>+~.#:[{]|$)/g, '$1[data-wx-tag="view"]')
+      .replace(/(^|[\s,>+~(])text(?=[\s,>+~.#:[{]|$)/g, '$1[data-wx-tag="text"]')
+      .replace(/(^|[\s,>+~(])button(?=[\s,>+~.#:[{]|$)/g, '$1[data-wx-tag="button"]')
+      .replace(/(^|[\s,>+~(])scroll-view(?=[\s,>+~.#:[{]|$)/g, '$1[data-wx-tag="scroll-view"]')
       .replace(/url\(\s*'?\/assets\//g, "url('./assets/");
     out = out
       .replace(/(\d*\.?\d+)rpx/g, (match, num) => rpx(num))
       .replace(/(\d*\.?\d+)PX/g, (match, num) => rpx(num));
+    // 手机优先：让「窄屏」成为唯一分支（详见交接文档第九节）。
+    out = out
+      .replace(/\(\s*max-width:\s*420px\s*\)/g, '(min-width: 0px)')
+      .replace(/\(\s*max-width:\s*430px\s*\)/g, '(min-width: 0px)')
+      .replace(/\(\s*max-width:\s*700px\s*\)/g, '(min-width: 0px)')
+      .replace(/\(\s*min-width:\s*431px\s*\)/g, '(min-width: 99999px)')
+      .replace(/\(\s*min-width:\s*700px\s*\)/g, '(min-width: 99999px)')
+      .replace(/\(\s*min-width:\s*701px\s*\)/g, '(min-width: 99999px)');
+    // rpx 基准：真机上就是视口宽（行为不变）；只有宽到「桌面窗口」才锁 390px。
+    // 用 CSS 变量而不是 min(100vw, 390px)：后者会把 431px 以上的真机也缩到 390 基准，
+    // 那样折叠屏/平板宽度的手机反而会多出左右留白。
+    out += '\n\n:root { --wx-rpx-basis: 100vw; }\n' +
+      '@media (min-width: 431px) {\n' +
+      '  :root { --wx-rpx-basis: 390px; }\n' +
+      '  .app { max-width: 390px; margin-left: auto; margin-right: auto; }\n' +
+      '  .home-screen .home-actions { left: 0; right: 0; margin-left: auto; margin-right: auto; max-width: 390px; }\n' +
+      // 全屏浮层也要锁进同一个手机框。.overlay 是 position: fixed 的满屏层，
+      // 而战斗界面在沉浸模式下是「width: 100%; height: 100dvh」——只锁 .app 的话，
+      // 首页/地图是 390 宽的居中列，战斗界面却是整个窗口宽（1440 下实测 1440px），
+      // 两个框对不上，画面就散了。fixed 元素靠 left/right: 0 + margin: auto 居中。
+      '  .overlay { left: 0; right: 0; margin-left: auto; margin-right: auto; max-width: 390px; }\n' +
+      '}\n';
     out +=
-      '\n\n[data-wx-tag="text"] { white-space: pre-wrap; }\n' +
-      '[data-wx-tag="view"] { box-sizing: border-box; }\n' +
-      '[data-wx-tag="button"] { box-sizing: border-box; font: inherit; margin: 0; padding: 0; }\n' +
+      // 这三条是「标签默认值」，必须用 :where() 把它压成零特异度。
+      // 否则它们与作者的一个 class 选择器特异度相同，又排在样式表末尾，
+      // 就会反过来盖掉作者写的规则——踩过一次：.technique-line 源码里写了
+      // white-space: nowrap（配 ellipsis），被这里的 pre-wrap 盖掉，
+      // 于是地图标题旁那行功法名在被挤窄时逐字竖排，看着像布局坏了。
+      // 同理 button 的 font: inherit 会盖掉作者设的字号（font 简写会重置 font-size）。
+      // :where() 让它们只在作者没写的时候生效，这才是「默认值」该有的地位。
+      '\n\n:where([data-wx-tag="text"]) { white-space: pre-wrap; }\n' +
+      ':where([data-wx-tag="view"]) { box-sizing: border-box; }\n' +
+      ':where([data-wx-tag="button"]) { box-sizing: border-box; font: inherit; margin: 0; padding: 0; }\n' +
       '.wx-hoverable { transition: opacity 0.12s ease, transform 0.12s ease; }\n' +
       '.wx-hoverable:active { opacity: 0.78; transform: scale(0.98); }\n' +
       '.wx-modal-backdrop { position: fixed; inset: 0; background: rgba(5, 8, 13, 0.72); ' +

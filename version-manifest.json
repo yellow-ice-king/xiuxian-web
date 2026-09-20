@@ -180,6 +180,686 @@
     "sha256": "e728848945aeb4ea161d91b742546d9f277ee3c16fc11fdeaa3d46034fdefd6a"
   },
   {
+    "path": "assets/miyanjing-card-basic_beishui.webp",
+    "size": 46758,
+    "sha256": "afb128683953ff02aa7770810556de749c3ad18239f7b73f4790a1299f302607"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_bengshan.webp",
+    "size": 47734,
+    "sha256": "8378c90db3d988d0b4e08d668b1b04fc22ad2c86495c354eead6b7f6d790aea4"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_cangfeng.webp",
+    "size": 36020,
+    "sha256": "6c6c4a4d06b4e8fa51d0f9bce98b4074e420d9aeb144ba719d855a341231fd41"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_chengxi.webp",
+    "size": 42690,
+    "sha256": "47faf2b43bdd0bdc2e4eb737457a91d31cb37ff3a869f0c32fc6e00575abf30b"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_dongming.webp",
+    "size": 38320,
+    "sha256": "2ca2ac41424df966fce6ef2ea3909c3adc493a643e379f08d2ca3d54cf01bd16"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_fenmai.webp",
+    "size": 45872,
+    "sha256": "6ed1919646027e26a8bbe10057c7ccc24500a7273f0cf8c915fe1c365aef7c64"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_guixi.webp",
+    "size": 41246,
+    "sha256": "e089faab7c3a3a01a3674cd12e3edcf19bbd1f3e459c571577f82494026e646e"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_guoxi.webp",
+    "size": 36230,
+    "sha256": "613ba3a7a169f9b9f29861bb977d65240122d706bdb18ff16d0b92b271bc96f6"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_jiemai.webp",
+    "size": 38412,
+    "sha256": "5a18e7cf061fcb7d7da5f4ccd690c00172c9cb12675052ed8de289fe0f130c90"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_jieze.webp",
+    "size": 42096,
+    "sha256": "e593f17e7d9dfb617f05a066a6d27f8daf80c6ca71274a070eb47d7922ed5c78"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_jifeng.webp",
+    "size": 36564,
+    "sha256": "a76e4ba7015ae50f89420f2c4a24a8b8534c24fe756f462b7be5df42637938e8"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_jifeng_jue.webp",
+    "size": 42630,
+    "sha256": "06f78fa55a902ca6ce1f21f104c0425aa9775602eff57f74f0e9f050402e373e"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_jiling.webp",
+    "size": 39880,
+    "sha256": "369391653b18f743d27a10ee9488ae0d47cda05196f1c85c4f846e3d211c661b"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_jinzhong.webp",
+    "size": 40282,
+    "sha256": "31fa7acc054f33579346a70c914ed06ce20e419a92e820040a4e02b1503c1f26"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_kuixi.webp",
+    "size": 31954,
+    "sha256": "bd3bd3a1958b15020e278d3139dc99e255610132724b3f877c1f3283e386a36a"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_lianjian.webp",
+    "size": 33388,
+    "sha256": "624742f88d4549d0295fd23a981ea2bbc9772f5f1df9efce47d2a161192c1bc9"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_liaoshang.webp",
+    "size": 34188,
+    "sha256": "86b3796f09827e506854907983b792299b37de4910fba5294ea9e0ec52bfb6f3"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_lieshi.webp",
+    "size": 45994,
+    "sha256": "428b818b46d3d126fff351e750eb3342fed6e29fa7b11be787d6bcf174c8019c"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_luanshen.webp",
+    "size": 42750,
+    "sha256": "810fe5e63765cf99333e466d6944130a65c55de3efd28d77e6ac7e93b44e4fa0"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_nianhua.webp",
+    "size": 41918,
+    "sha256": "fc0b322c7ebcd8c167bbe6b1ef4cfae8e3bd72a3cb7c5b8166f00962bfc40648"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_ningqi.webp",
+    "size": 38672,
+    "sha256": "9c1cb94275261d5be3ac78fb333e97f08143d233899828aeabf2d48f5abb258a"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_ningxi.webp",
+    "size": 39184,
+    "sha256": "ca2cb2f04fde71e1fa3d87606763be681de8844218cfbbbff1d929cc2669f330"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_pozhu.webp",
+    "size": 39976,
+    "sha256": "85d834dfb0e690c7679954f4bb2313bbdaf5b492835fc925979c27e95b682628"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_pozhu_lian.webp",
+    "size": 45534,
+    "sha256": "202f5a124cee5e3aff8446c133a4f68722f9a36a3a5205a8e242573638e06f2d"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_qingji.webp",
+    "size": 39076,
+    "sha256": "9ffe6070d21b0f52ab970e7a80502aa9caaf8c075de1eba551a82fd7ce0f5d43"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_shoushi.webp",
+    "size": 37166,
+    "sha256": "6ab6bdcc71600d65f8b76584f548e09dd7bca9ec3ab8014ef76ff75c25706cdd"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_shouzhuang.webp",
+    "size": 38828,
+    "sha256": "3a23c00c55441088a636826741df8529cc3d1d13104283a93abd8d3c5ab26729"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_tiebi.webp",
+    "size": 45332,
+    "sha256": "0df48cc910569cd1cb35987832d24101b9bcc49ca319916629e2dd4e8b4cc2dd"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_tiegu.webp",
+    "size": 40364,
+    "sha256": "45db7b81df8a913dce302b02af9918bc18b2f497776413ab0b3828c790b26d76"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_xushi.webp",
+    "size": 37526,
+    "sha256": "6f0e17324fc56c7d23b92dc46d19a5305853929e99f945a6172064c8d1462561"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_yinlei.webp",
+    "size": 37602,
+    "sha256": "bc2fed062294a573cc31a674bb13e24695beb728088b83e2963e75a1b6f8b5b6"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_yinxi.webp",
+    "size": 36916,
+    "sha256": "831e0e1cfb1f6009f8a4aabe6bd91a6328299beba2a3fb73627998c5da24d0ee"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_yiqi.webp",
+    "size": 38454,
+    "sha256": "cc6090f1967f5d200ca350e74c121e74674b033161f6c32648a1001056814b72"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_yiqi3.webp",
+    "size": 38448,
+    "sha256": "f76a0ba68b8315a36f0c1fd4f6d42167b40738217262864ff52f0902916bb2ae"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_zhangchi.webp",
+    "size": 45818,
+    "sha256": "745a76f48bdfb70286a849c16182f368af5c552f38b7dba56e0926955681726c"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_zhongzhan.webp",
+    "size": 42208,
+    "sha256": "6b9b67881bc11b46e5b98f725df36a54b7311f1b054ef13278215e380930c6e1"
+  },
+  {
+    "path": "assets/miyanjing-card-basic_zhuangshan.webp",
+    "size": 42390,
+    "sha256": "6817d46a9a0989b9730578a03691ed585f53b902ca443b1b62496f957b59e396"
+  },
+  {
+    "path": "assets/miyanjing-card-benming_sword.webp",
+    "size": 39006,
+    "sha256": "9e263ef44489449bec1c922dcc09a8f3203f27761d2bcdd9148dc569277bd9d2"
+  },
+  {
+    "path": "assets/miyanjing-card-dayan_tuiyan.webp",
+    "size": 45792,
+    "sha256": "fea6625a82a58b2d68f3f7f1c48310539ff2475ba8b970ba6a43e25249e1475f"
+  },
+  {
+    "path": "assets/miyanjing-card-epiphany.webp",
+    "size": 37054,
+    "sha256": "6db8c9efebad12a35e32d85f3076bc7a31bf9dd92cb5eb12070f8090d123ec6e"
+  },
+  {
+    "path": "assets/miyanjing-card-fucard_dinghun_fu.webp",
+    "size": 36438,
+    "sha256": "e35df98fac5305244c97f967e1957d02e945ec1aeb8e4e8b2f211281db617188"
+  },
+  {
+    "path": "assets/miyanjing-card-fucard_huodan_fu.webp",
+    "size": 44546,
+    "sha256": "10c0bfd0b7ff29009f578f21323acff1836394b15d7cd373b02cacce35ce519f"
+  },
+  {
+    "path": "assets/miyanjing-card-fucard_jinjia_fu.webp",
+    "size": 43206,
+    "sha256": "e333b80bdb7f5b41131c6fba0229e7693c17109e0e3c8ec4a2c10b5a4e903328"
+  },
+  {
+    "path": "assets/miyanjing-card-fucard_leiji_fu.webp",
+    "size": 45662,
+    "sha256": "ff2a8acef68484e5e885256458360a8fa0ca8e0dfdafbcad08fed2186cf93f04"
+  },
+  {
+    "path": "assets/miyanjing-card-fucard_xuanshui_fu.webp",
+    "size": 43908,
+    "sha256": "4cfea3b734064df164ae703baa9f6852a8416216c3f769b963bafef0f0520abd"
+  },
+  {
+    "path": "assets/miyanjing-card-heal.webp",
+    "size": 40572,
+    "sha256": "ab2f23de9523c61420bc2bef073aa8618e1b21e2fbf32b6db922941d7f08a909"
+  },
+  {
+    "path": "assets/miyanjing-card-insect.webp",
+    "size": 48064,
+    "sha256": "d5d77b29ca85bb3ff888e61a0412366864ae14aba3449651bbe69485f01aed16"
+  },
+  {
+    "path": "assets/miyanjing-card-jinxiao_leiyin.webp",
+    "size": 40128,
+    "sha256": "22cd60362d0e6aa03525645aee25def5151b8cfdbf6825e9b2c29aef58cf9808"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_chiyan_xie.webp",
+    "size": 46228,
+    "sha256": "b299e1262f0ffc8490e28d9f1ea9dbc5871b52333465cee6892cc269ca8bf5b0"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_duohun_ya.webp",
+    "size": 41452,
+    "sha256": "1ab71635255830b48bf7b2cda6f31d2c4b52eeab9bccc2c15071ddc9e8060b4c"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_fentian_ya.webp",
+    "size": 43792,
+    "sha256": "f8fb840a104b3ab10601d2b976763b7b2a375d70f2898a6cb8904550f89739a2"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_heizhao_e.webp",
+    "size": 36996,
+    "sha256": "dd46dbe5edd3b7b2a75eb507fa37948f5e08f9625ec9dcb10bb6fe283229f44a"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_jiuwei_hu.webp",
+    "size": 33620,
+    "sha256": "74bee0b4b62074621885e1531ffacf55e242f93d75344e44240e850701a206ee"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_leishou.webp",
+    "size": 40432,
+    "sha256": "28cd2a1063a6d3380144f1cf64474f0d39fac08710fbc6ece50a78c3fd144797"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_moyuan_jiao.webp",
+    "size": 40818,
+    "sha256": "d033ffcd068eca7e6679d289756c78c2e9cd628636adb59bfb8c65588746d5bd"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_shiling_shu.webp",
+    "size": 40320,
+    "sha256": "65fbce255605061f31c17fb8760700d5ad1c708be66fe0bcb4193e0ccec41b84"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_tuntian_shou.webp",
+    "size": 35410,
+    "sha256": "55f5e91b3d21cd4c44a6a89832629f4a9d946adc6b09633cee043161a052d006"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_xuanbing_mang.webp",
+    "size": 42682,
+    "sha256": "d7166e9c7e66cb80f01d69185554b8a011a1e755fc4ca5e8db72607739ee5064"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_xuantian_yaowang.webp",
+    "size": 42386,
+    "sha256": "ccb187f8f9f5f18e6b888e4129e512c76a50f21072de795104529c925d1538c3"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_xueya_lang.webp",
+    "size": 42784,
+    "sha256": "bda071c9888d61f951b79da82bc93195c05a04002247067a49366948d35a5959"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_yinfeng_hu.webp",
+    "size": 37836,
+    "sha256": "63c86b29b9d547abcf8a4e8b45d3246e336f931dbd6a3d3bf756ae175fda9d8e"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_zhuye_qing.webp",
+    "size": 42208,
+    "sha256": "33c0f1f0943efafe51f506848aeca70673e01583f0e6f75aef6a5021192aed56"
+  },
+  {
+    "path": "assets/miyanjing-card-petcard_zidian_diao.webp",
+    "size": 44988,
+    "sha256": "b21b88d32e364f3f607e0fcf929f23507da13c02db504096b43acecd828f034a"
+  },
+  {
+    "path": "assets/miyanjing-card-puppet.webp",
+    "size": 41474,
+    "sha256": "66f1ca2f2ba4de97661e47286ddde2279b2bcaf46d05462c3f2616e3efb23610"
+  },
+  {
+    "path": "assets/miyanjing-card-qianshan_hudun.webp",
+    "size": 39574,
+    "sha256": "d9ad671412df20ef2ed10366f9c0af72919bae1e79c4d5994ed8053164f4ca8c"
+  },
+  {
+    "path": "assets/miyanjing-card-qinyuan.webp",
+    "size": 46680,
+    "sha256": "3fb155992bac218cbca51f030f2a00362c2b5264fce7da1f6a415fdd2bab678b"
+  },
+  {
+    "path": "assets/miyanjing-card-sanyuan_baofa.webp",
+    "size": 35622,
+    "sha256": "2820d47aa046f2fc86bf8fca4039e967954ec78da9826f14b5cdc9024ea5742f"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_bitao.webp",
+    "size": 45740,
+    "sha256": "e5304e216bf626a00964e3a2cbb44cc650ea1cfbb478d95c9668533846feefa3"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_chiyang.webp",
+    "size": 48384,
+    "sha256": "9f01b738e1c3de15e8e4baaa846307ef0cd86c74e57b6aead844baa2100dc7ab"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_dacheng.webp",
+    "size": 44440,
+    "sha256": "16fce5998128119d04d5521b3e688ac829bee3c6035bc8211c2377587ffcfd9c"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_da_yao.webp",
+    "size": 41246,
+    "sha256": "12418dc519409fa3ba2616188afc25090c576dd68fa9ff1d110cb0a3ed98365f"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_dujie.webp",
+    "size": 44600,
+    "sha256": "614f41b9f1fdc3e7e4c425a56f55dca489e6924f17f7e0f44f663270003713c2"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_fenghuang.webp",
+    "size": 45592,
+    "sha256": "a6adde376333f17e94b7ae8ca0f7c6670ff502ba6485447f095278c4fbd9e6f0"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_hanbing.webp",
+    "size": 46330,
+    "sha256": "bd28f4b1900fca24c279906e6d86ccc8eb77bb8425ba07853f94848f28a6ef6f"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_heyi.webp",
+    "size": 38990,
+    "sha256": "9b3ab6e9e80c5f958c67fc1afb5f8042263c252311e38c1fd6a81a3c5b24f998"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_huashen.webp",
+    "size": 37326,
+    "sha256": "3106542eec4888a26a0b3cdce4c6e3ede95037a69ca7de133e47d6085c4c749d"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_huntian.webp",
+    "size": 38940,
+    "sha256": "153c091fd1c4beaddd8f0e40533ce3e610b1e8e4ddae6d9aeca42637d7503ea8"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_jinjiao.webp",
+    "size": 45380,
+    "sha256": "8cd3f67333e50cc16956bf3d84cf55cb1230568823152095de618a6d5f39eeb2"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_jiuyou.webp",
+    "size": 38148,
+    "sha256": "a118ba2d25e06b1f2966fc6f9f0d7e62c80ebcea414e9dd6d9e4abb552403ba3"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_kuangsha.webp",
+    "size": 45312,
+    "sha256": "6192149d560114a2c51b67aa5a9913b5ef8dd197ea98918360088ec360f47705"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_lei_wang.webp",
+    "size": 42636,
+    "sha256": "b2c274b69f8e2a15e1997ba41098e37ab89dd18a1e970248199787ba742f5dc9"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_lianhe.webp",
+    "size": 43058,
+    "sha256": "72b69cdd436c485b584f628aa51006fadd886e604a20b7f041f3eeb3cff95a2f"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_qinglong.webp",
+    "size": 48476,
+    "sha256": "5976a9bd20a203b458f0341b8540d7cec8b7d475faef542e75ec6091dd561d5a"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_qingmu.webp",
+    "size": 44438,
+    "sha256": "ab1e6f5866700231df2f9df105003cc11169e1f486b2f4c5f91c44a835f83d00"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_qingyun.webp",
+    "size": 38030,
+    "sha256": "56c8a336882f1b47698cf490fb3988083998875399b33d9bed84dd64a5c4aa09"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_taichu.webp",
+    "size": 34586,
+    "sha256": "1e3eb316954acabc89148b1a1649b34df0a052e3931f719b0608b04dd33e54a4"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_tiandao.webp",
+    "size": 39752,
+    "sha256": "e90c7215c37a1b2ae6bfca3f71d23f45df52e6f565dc29d3fe51beca6166bde3"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_wuwei.webp",
+    "size": 38784,
+    "sha256": "c6230a3f023c789ccbe6fd9166b8de67781dcc21ec4def08ff656642c54c70e4"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_xian_gu.webp",
+    "size": 38340,
+    "sha256": "573a70fb8e003759922e3f27b574593d53f564482d4226a7a77f18392e4746f8"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_xuanwu.webp",
+    "size": 41852,
+    "sha256": "c408902c097c19f810a9c869467c258ae05f310a77d4759253df1f2901917270"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_xuyuan.webp",
+    "size": 36774,
+    "sha256": "61753b2e2f8268dca3da834a26f1f51565f8d5cdb3ba8d6235ba0efe497d582d"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_yao_hua.webp",
+    "size": 37496,
+    "sha256": "286071a72a63671b942cfead485d11954ae0a3d06be18a3292413740aaa85c0f"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_ying_po.webp",
+    "size": 36690,
+    "sha256": "a021cb92a76c1cc5f7b6d2f9a9e59d5508b67e79b837e10102a93112883d0ecc"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_yinhun.webp",
+    "size": 37174,
+    "sha256": "5dd3241b95dafc6404457ca0a26b901ee00687cda5f3a116b964b0dddf743ced"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_yumu.webp",
+    "size": 43294,
+    "sha256": "de633b10ecbca0aa61ec77a11c7366af3dfd3edddd36549c6583d52708862732"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_yunluo.webp",
+    "size": 36780,
+    "sha256": "cf7d6909f6487abe8db2150e421ad0855c1d0cbc6ec8031426c9c3bf59c5a9c1"
+  },
+  {
+    "path": "assets/miyanjing-card-secret_zidan_leiwen.webp",
+    "size": 39744,
+    "sha256": "ac8005a7c5c83e5747d4d70bd6bdb5eb0b13210392aac7a69d876a61b234b8b6"
+  },
+  {
+    "path": "assets/miyanjing-card-shaoyang_jian.webp",
+    "size": 38624,
+    "sha256": "e344ffe5381986709ffbd22335855f70eb410f88eafd24dac6cc82904421bcb3"
+  },
+  {
+    "path": "assets/miyanjing-card-shield.webp",
+    "size": 43578,
+    "sha256": "61f4c084319779095026d4f41af43c373e84c37e9be405b84466448ee15addb4"
+  },
+  {
+    "path": "assets/miyanjing-card-strike.webp",
+    "size": 38124,
+    "sha256": "cbad900946a3ec39d5ac4f10ed25d1271723bfce05d0a2ab2c8f743578801194"
+  },
+  {
+    "path": "assets/miyanjing-card-sword.webp",
+    "size": 34034,
+    "sha256": "4615d6c8e1ff2a4717d06061d4159622438ceb7c6dc63fe0f6a2c0d3d5eb8220"
+  },
+  {
+    "path": "assets/miyanjing-card-sword_array.webp",
+    "size": 39572,
+    "sha256": "eb399335986d34865644e51bc17cd7c628721d09f07f13ec18ffc882ea71e07f"
+  },
+  {
+    "path": "assets/miyanjing-card-thunder.webp",
+    "size": 42958,
+    "sha256": "1a12ca90b4ae5c17fd724973b0cab96b4a0a8844b3a07f2deab6c12ff18f082b"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_bi_tao.webp",
+    "size": 38428,
+    "sha256": "0ba2b9319c6b2a4bb3365ab4448ba09a85829d23aa7b26cb5742522060f2dfc7"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_han_long.webp",
+    "size": 41528,
+    "sha256": "c6a3be5c3c5f293622e5cf9f0acef0346af7a5994e569445a085e8542cec361d"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_he_gu.webp",
+    "size": 39218,
+    "sha256": "b748527a9f7781d4966b7db50971dcd26dc7c1aad4ff680dc4afe0247bde31f5"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_huang_jiu.webp",
+    "size": 41396,
+    "sha256": "2effe297bb7cba850689d3580b1af366b2a86c4203db43938a51696f05d63057"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_huang_quan.webp",
+    "size": 40972,
+    "sha256": "4b97a4e30c3cd54ba6892341ef83508249cfce5710b6b49623591673585e2381"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_hufeng_ling.webp",
+    "size": 40388,
+    "sha256": "7fca839b4370d97178d17157d588ffc0ac4a07570d51d5e35bb49fdaed774c39"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_hun_dun.webp",
+    "size": 42316,
+    "sha256": "a9a97b93699a8e7118fe83fb451414d6f03f3678ebe8f863885044b9f5ff67e6"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_hun_yi.webp",
+    "size": 40882,
+    "sha256": "0c376eae3e5d4a1bd9442c4756e3442f4942376afe3aea37857088c2f9c935ca"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_huo_xu.webp",
+    "size": 35244,
+    "sha256": "cfa2e54e97c27de92821db9a821524f126efd0fa4e76ed8b9e35350236339bd1"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_jiao_bu.webp",
+    "size": 41308,
+    "sha256": "fabb55a9cb00bd5ff65fab513ce21aa5ce20a7a417ed70a749287babbeca6fd1"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_jiao_ling.webp",
+    "size": 42956,
+    "sha256": "716c0539fcd1c11e229292c0c736f69bc494e213fdd5091ed5100e3b2959ea28"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_jin_hou.webp",
+    "size": 45928,
+    "sha256": "018de53eb9c2b63448fce46f5758e874c6b417de2d20c18cce70e5d97cd4f31f"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_jin_jia.webp",
+    "size": 46614,
+    "sha256": "751374fe76b91d4ba4671d70f1d65b1cadce7da8714425b1d9049dcdae1adbdc"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_jiu_yao.webp",
+    "size": 35382,
+    "sha256": "17968b194a7f330c1e2226686f594d58920bf09b622fa5cbaeff36763a979463"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_leiyu_sha.webp",
+    "size": 39954,
+    "sha256": "b6acc9060b2a6543fca69598bc5a1007dacca668f900e2f4350620bc4635667a"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_lei_ding.webp",
+    "size": 42816,
+    "sha256": "fddd08563742e835a9dc8dec9435433ea5aa03d2660893d9302c81505a50edf9"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_lei_hou.webp",
+    "size": 44882,
+    "sha256": "1ef8a77d38cf3a5bfb00e4d9297d3762ff2e0672e119cbb2756240ed5052b275"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_lei_yu.webp",
+    "size": 43434,
+    "sha256": "8454738e8ee4f6ba3a88e1f1f2270d846d0bd1f6427def3f5d0507c9ecbd1864"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_mo_long.webp",
+    "size": 42194,
+    "sha256": "a70bf4139def84723581d420d934fab60d287c1dc899ba6935a86115109fd78e"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_mo_wei.webp",
+    "size": 39722,
+    "sha256": "42370b21c795454c8f44a1f4b3661e35e409a57e714feddbaa8ca8aedee86bea"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_qing_luan.webp",
+    "size": 38038,
+    "sha256": "fa141f2863a76baed40645d12c4e41e00f33cb0c08037d0ea1c908d5836ad710"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_qing_xiao.webp",
+    "size": 41864,
+    "sha256": "85c591e262afe222cc12d3441f643726afc4238ede9e530c79bf8f81937c573c"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_shuyao_gu.webp",
+    "size": 37470,
+    "sha256": "1f3348e3dc482a7cfe3f1bbe03b041c0c127cd6f312526b0c8af34079310d7cc"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_wang_yin.webp",
+    "size": 37244,
+    "sha256": "0cc112abc4b9e19bdc6b23d07ddc1624d3e0a69fff1fdc45b25cdbd01b68d8e9"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_xian_gu.webp",
+    "size": 36668,
+    "sha256": "66c0f525b27592e0bbcf4b5d566f2f3ff4e770cf41be7652a58ede3fd115209a"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_xing_hun.webp",
+    "size": 42638,
+    "sha256": "56b753658a26fa9d0278c7d2caef2eb4b03b75a5030358161adbfc700f653f3d"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_xuan_mo.webp",
+    "size": 38770,
+    "sha256": "4b8b8836adb953cb1f4ee98d1ab79ab9613be55562aabc344b2b5d2675e9f4f9"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_ying_zhu.webp",
+    "size": 35552,
+    "sha256": "9139df0052c9cc4688122fe9a60bf9b97b1cc042f8bfdd71456b38af149a9a64"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_yinyu_hu.webp",
+    "size": 37840,
+    "sha256": "796c2a67ce39cd6fe5f3b279a1743bbcbd1988e04de68b0183a5f4d1fb0260b4"
+  },
+  {
+    "path": "assets/miyanjing-card-toolcard_tool_yu_yuan.webp",
+    "size": 40148,
+    "sha256": "e49c2c66d3bdb2ea43de4169cc3f296e0fab22b56467970bc6f8e13b98ee8e6c"
+  },
+  {
+    "path": "assets/miyanjing-card-wangui.webp",
+    "size": 42916,
+    "sha256": "026bc44bdffd79d931bbb156a05afdd6d389483cd3b4882e77a31f1db44f14fc"
+  },
+  {
+    "path": "assets/miyanjing-card-yushou_gongming.webp",
+    "size": 43092,
+    "sha256": "3b2899d86e036cf3f17cc7da30b0d19db68ab93f4c217398d40a9cfa971451e6"
+  },
+  {
+    "path": "assets/miyanjing-card-zhenhu_shanwei.webp",
+    "size": 46556,
+    "sha256": "c2f4919426d1a565abe42ed3472aa26c5d2ede2d7246f7466e70e5136c2abb5a"
+  },
+  {
     "path": "assets/miyanjing-combat-portraits.webp",
     "size": 99966,
     "sha256": "cea9c2dd4f431dbbed82c17bdd439721d131893ab98c8b202fcbbe4f3c1d19cb"
@@ -331,8 +1011,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-chiyan_xie.webp",
-    "size": 9540,
-    "sha256": "7a4bab3607d65b17d116543196ecc9343751e36d032af3f6201beb0def568867"
+    "size": 32466,
+    "sha256": "4ab2b6583e387fb392f224bb26762a85af5b3f3a6fa85ae3b2fdb91bf6074e9f"
   },
   {
     "path": "assets/miyanjing-enemy-dacheng_leilongwei.webp",
@@ -351,23 +1031,23 @@
   },
   {
     "path": "assets/miyanjing-enemy-duoxiu_jiashi.webp",
-    "size": 10090,
-    "sha256": "e2da576e01a6a7cc2894cad1a4d6a0bda51fcc6c2fbac6031e1125a22a3bcbf6"
+    "size": 25554,
+    "sha256": "a9a9babbab617fb8914d5bb17adcfeeaae3c80257a07a779ac7777ffd9c6f9c1"
   },
   {
     "path": "assets/miyanjing-enemy-fentian_ya.webp",
-    "size": 9666,
-    "sha256": "982b0bcfb5ced7eef0e98ffed273630382ad36769e8108b24dfe472c891705de"
+    "size": 33502,
+    "sha256": "901ad3c66f17ef66d3dbedc428097f161ba992cf3caf1501edc58144dbd50aff"
   },
   {
     "path": "assets/miyanjing-enemy-fugu_shi.webp",
-    "size": 9648,
-    "sha256": "0f02f2717c9cf13b1b691422f0d3ebb0242aa793f5daffc3248a9aedfe11ca1f"
+    "size": 26472,
+    "sha256": "51986684ca64bcaaa943b6433b8554a8b22ff289f60c1698166d4d7708e710c9"
   },
   {
     "path": "assets/miyanjing-enemy-heizhao_e.webp",
-    "size": 10484,
-    "sha256": "51a467074dd7e0fd5a0ced62af2dcfd76ceb8188bc070d9b3395bc604a614a12"
+    "size": 28012,
+    "sha256": "52845ed15c1c44bbb27844a5fe4036d3b613f5527af10e39c0b83dcc3d7d582b"
   },
   {
     "path": "assets/miyanjing-enemy-huangchen_xingkui.webp",
@@ -376,8 +1056,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-huanggu_kui.webp",
-    "size": 4338,
-    "sha256": "eb52e5d692eb2279c6a062fa8c16eb00e18c823f0bc7b0a006428be1f6246986"
+    "size": 27130,
+    "sha256": "ee5697282ce501a0588c09090abd1441d89cb2473597a680ab9d88592bbcad7b"
   },
   {
     "path": "assets/miyanjing-enemy-huanggu_xingmo.webp",
@@ -411,8 +1091,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-jinjia_jiang.webp",
-    "size": 10368,
-    "sha256": "b01fad332c2a444a99a552c9297778d7ba2086fac759c02df5cc29216361f793"
+    "size": 31100,
+    "sha256": "0fc76111dacc6279d405f5a4a35f1e879788cc8d3955df4ac0cb51c9bc8b76f7"
   },
   {
     "path": "assets/miyanjing-enemy-jinyuan_yuwei.webp",
@@ -421,8 +1101,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-jiuwei_hu.webp",
-    "size": 8728,
-    "sha256": "08e4bad8bff68fdcb0f35103f186ad7df37ce53eb770773a9494b90ea76c2d25"
+    "size": 35552,
+    "sha256": "bd88ae22d243d4b58a4f45b157230bfded2a913b807937d634e9a9583a74d599"
   },
   {
     "path": "assets/miyanjing-enemy-jiuyou_huangquan_wei.webp",
@@ -431,8 +1111,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-jiuyou_yao.webp",
-    "size": 3168,
-    "sha256": "b3a9cd64ee9a8afb373eb4d28d49ef22e02cfce24da7e6b7851d7c307020248a"
+    "size": 28540,
+    "sha256": "ba4393d9949b64f2ddcf89d9056c50028d147197df9d5f3b93eb2c68994bd127"
   },
   {
     "path": "assets/miyanjing-enemy-kugu_gui_mu.webp",
@@ -446,8 +1126,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-leishou.webp",
-    "size": 10962,
-    "sha256": "4635c93aeee07a624b64d66cc63f51601bafd71322f6d97c47d28cefce3a555d"
+    "size": 36266,
+    "sha256": "8cdc52e4cc94c87294a6afcf5f3d8189a790c724ddd771a6d6b1fa652abd4c01"
   },
   {
     "path": "assets/miyanjing-enemy-leize_tianhou_qinwei.webp",
@@ -491,8 +1171,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-moyuan_jiao.webp",
-    "size": 10934,
-    "sha256": "c508d73d1b25353da54c6ee2647cd34c64dd8adab607d47d0863c6586c2182da"
+    "size": 36492,
+    "sha256": "9974f24bb20c63cd22be24f4af5867b838bc05810476f76092cf4c67718e5acf"
   },
   {
     "path": "assets/miyanjing-enemy-pinyuan_gui_jiang.webp",
@@ -531,13 +1211,13 @@
   },
   {
     "path": "assets/miyanjing-enemy-shijia_kui.webp",
-    "size": 8824,
-    "sha256": "ae8684ed14b69f75bd96b655c553e055f046f25f71457ab0771f3b23600e978a"
+    "size": 28606,
+    "sha256": "414f76d855094810b70c81ba88a42b9b2773cb319b763878dde82cdc05bcfb84"
   },
   {
     "path": "assets/miyanjing-enemy-shijin_chong.webp",
-    "size": 5128,
-    "sha256": "acab58271cfdabf0d0e90101ee197bca601fa2ce4958138b60a7c0b4faed1351"
+    "size": 28406,
+    "sha256": "d458d4920df97138f5219e00a32e7b5e0946ee9029a60ddecce317fea5586782"
   },
   {
     "path": "assets/miyanjing-enemy-shiling_shu.webp",
@@ -566,18 +1246,18 @@
   },
   {
     "path": "assets/miyanjing-enemy-taichu_xiongshou.webp",
-    "size": 3776,
-    "sha256": "24aa64f7401f4af1f5bcb23c1348fd560e331d3081102c8f932de9a11149ac25"
+    "size": 27430,
+    "sha256": "806692958c2128056a9eb889c754199b61e391002eb5994ef1352516488267e2"
   },
   {
     "path": "assets/miyanjing-enemy-taixu_mojun.webp",
-    "size": 9314,
-    "sha256": "c7f900ba3aaa00a0cd02f5c50a9884af50d690109e3bf9116dcad36c0b494839"
+    "size": 29196,
+    "sha256": "4f2001f1f7e68e85366b71b48f4f51928b00b3b7e4a6bb3f318faf53121d29a7"
   },
   {
     "path": "assets/miyanjing-enemy-tuntian_shou.webp",
-    "size": 3544,
-    "sha256": "be19be0e0e0003252b5e7f2ea54614f1353a141cb39e52801b1e574190436e8c"
+    "size": 28896,
+    "sha256": "a3e6758c4b68e57ad0bdd798435c7e63d24b0b50d313d9ee1330eff772167f44"
   },
   {
     "path": "assets/miyanjing-enemy-wulei_jinyuan.webp",
@@ -586,13 +1266,13 @@
   },
   {
     "path": "assets/miyanjing-enemy-xinmo_ying.webp",
-    "size": 6506,
-    "sha256": "7c13dc7f9fab1521388ff06fea95cede5ddad1d3341cef0ef8e5a1461d5e6f3e"
+    "size": 29858,
+    "sha256": "ad39164cfb9e7c304c4867ab0078524b7ec4edb151705441b11fc0be37b3423b"
   },
   {
     "path": "assets/miyanjing-enemy-xuanbing_mang.webp",
-    "size": 11510,
-    "sha256": "08199bb884b207f5484f251fc58ece377cf269bc989f68140031f0496bedbc37"
+    "size": 34484,
+    "sha256": "05752924505e710afabccef6b94f9578673523181b15d18e2341f240a20dfff9"
   },
   {
     "path": "assets/miyanjing-enemy-xuanjia_chuanshan.webp",
@@ -616,8 +1296,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-xuantian_yaowang.webp",
-    "size": 9860,
-    "sha256": "e9f33ac0680cdd1bbb9c126feddf6d207cb15635eca78d654e34df6f3a5c1725"
+    "size": 30930,
+    "sha256": "7fd1800f2f469137d99a05aa5ed32f81e2d760cde824779ab930710b32277802"
   },
   {
     "path": "assets/miyanjing-enemy-xuanzhe_sheshao.webp",
@@ -636,8 +1316,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-xueya_lang.webp",
-    "size": 8116,
-    "sha256": "1dd709f4e5a38906f87c16a0fa4b0144170bc54edeff9e3ad4e777929ff08ac5"
+    "size": 30142,
+    "sha256": "c8c1689de0d7667cf2c696e19bb0f106dd59905d7ca255b02f734b4ba87049ab"
   },
   {
     "path": "assets/miyanjing-enemy-xueyi_fuyao.webp",
@@ -651,8 +1331,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-xue_mo.webp",
-    "size": 3858,
-    "sha256": "a978a24855c1775e0a586c8bcf3a6e6fcd0e6f15d20fa6a2650fccbf52b25c97"
+    "size": 30890,
+    "sha256": "f931782a26c1b6fdb5a34ff301d9508e510b0ed2a38e573a73febc10f47a9f69"
   },
   {
     "path": "assets/miyanjing-enemy-xuyuan_fengchi.webp",
@@ -666,8 +1346,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-yinfeng_hu.webp",
-    "size": 9162,
-    "sha256": "c53aa023a3c38c92658bcf2841aa55b581c26253a5ea906631e8363680fba932"
+    "size": 28836,
+    "sha256": "fb4c831dd8928877b98967062464a2d921c89f0563711fdcf4ac76101b1694bf"
   },
   {
     "path": "assets/miyanjing-enemy-youming_dazhang_gui.webp",
@@ -681,8 +1361,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-youming_gui_mu.webp",
-    "size": 10600,
-    "sha256": "7b07658d5ea3b8b48ae6434e8b9bebb13c99f653c0e4d1cb30f4c9276ad82086"
+    "size": 29600,
+    "sha256": "b661a8921d558584317be8463256006650c5f221358ec2fda58dd3fd3aa743b5"
   },
   {
     "path": "assets/miyanjing-enemy-yuanjiao_e.webp",
@@ -731,8 +1411,8 @@
   },
   {
     "path": "assets/miyanjing-enemy-zidian_diao.webp",
-    "size": 7870,
-    "sha256": "6da914991f4764c2aa492e6bf4f8057eabadeaae2967ba601b6ec32172c80e18"
+    "size": 33524,
+    "sha256": "9157a3665531f9a35b52c836f4d5b0029bc3e96166260427c7978e9e7fef775d"
   },
   {
     "path": "assets/miyanjing-enemy-zixiao_baimei.webp",
@@ -805,9 +1485,19 @@
     "sha256": "8159292532f6a120790db36f5eb5bacefc3772f16123fe866719b4bdfe6a47b5"
   },
   {
+    "path": "assets/miyanjing-icon-form-ash.webp",
+    "size": 5958,
+    "sha256": "7c81a1eabf532ba3858c774850cc907c0961dd1e4e7398c98cfc0242f6b4ba4f"
+  },
+  {
     "path": "assets/miyanjing-icon-form-banner.webp",
     "size": 4446,
     "sha256": "10a3e109ef437badc610454b69aac3e10c04c46fa18a3af95e809e71abbc25e0"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-beak.webp",
+    "size": 4386,
+    "sha256": "6051da1e7fd4b06612f580cd478cf20339f5bec5bd4e81a656cde7a1e7239555"
   },
   {
     "path": "assets/miyanjing-icon-form-bell.webp",
@@ -840,9 +1530,19 @@
     "sha256": "d02cd62b74c2939322bd0d461fb973f487d115ca1981071152183f760bdc058c"
   },
   {
+    "path": "assets/miyanjing-icon-form-carapace.webp",
+    "size": 5962,
+    "sha256": "594777d8fb8b24efeed84d81f691459f76bf75018c0596b0c6fbbd801bc4dcb2"
+  },
+  {
     "path": "assets/miyanjing-icon-form-cauldron.webp",
     "size": 7134,
     "sha256": "a4295ca5435aeb2c95ddfe80e931825f224ca5bbffb8f4de89ce1aa71c6ae394"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-claw.webp",
+    "size": 5908,
+    "sha256": "fa7954ab5c6ee31ecd6ea5f8acb4e8e16cc14b39ccdca3154e7d6493c407cea3"
   },
   {
     "path": "assets/miyanjing-icon-form-cloak.webp",
@@ -860,9 +1560,19 @@
     "sha256": "ecf0f7909a12a1cab7d02be65d7b2ba527bfb637981b31d152c2eaa28593e6b3"
   },
   {
+    "path": "assets/miyanjing-icon-form-crystal.webp",
+    "size": 6620,
+    "sha256": "2445bff2c5a3ef85c8b3c1ced1da1a47cd1eae609aacef878a60b2168bcfaa02"
+  },
+  {
     "path": "assets/miyanjing-icon-form-drum.webp",
     "size": 6870,
     "sha256": "68d7324f9fa423198f0c9beaa5bf1e5b08a65a59bbf6763cc78d9c3538dece63"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-eye.webp",
+    "size": 7212,
+    "sha256": "021f512a7ac4513eb64d6e07d3fb8897f0243416b12c6407d7a7914ed6d5df91"
   },
   {
     "path": "assets/miyanjing-icon-form-fan.webp",
@@ -870,9 +1580,34 @@
     "sha256": "a9856ed2e24162fe78a5e88fd005cfe09e6da38622fa6ecf9c91bee0c8562282"
   },
   {
+    "path": "assets/miyanjing-icon-form-fang.webp",
+    "size": 5518,
+    "sha256": "cfc76ca36b89bc3728ecd32a37fb23df20497b98ad81482da9efb0b73df0117f"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-feather.webp",
+    "size": 5530,
+    "sha256": "c3ba2a92aeffd356a5af0109758b556fa39af64731d81ddfec0725a5f40be774"
+  },
+  {
     "path": "assets/miyanjing-icon-form-formation.webp",
     "size": 7872,
     "sha256": "bd513a3c65122e3b95e58aa1925bd77ed1fd217b2bf825492ea839be3209b643"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-fruit.webp",
+    "size": 5750,
+    "sha256": "75f6f1fc08bb5404862cf0f30640e2840127bfdaf9099d0139cb7743d4e60e4b"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-fur.webp",
+    "size": 5294,
+    "sha256": "76d4c8f6b424052567c03ae8a221a2dbd1481938f9b259f995c6d3f87e154e00"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-ghostfire.webp",
+    "size": 5568,
+    "sha256": "2bfc6f7dff4e1dded7b15a36d9c14dda518d7182da9ab0a2cfda5c7f5388da61"
   },
   {
     "path": "assets/miyanjing-icon-form-gourd.webp",
@@ -885,6 +1620,11 @@
     "sha256": "30ddf47159db0fa40529ad0c639f66d5f663a8e9f558d4942f16971dcd6f770c"
   },
   {
+    "path": "assets/miyanjing-icon-form-heart.webp",
+    "size": 5256,
+    "sha256": "499ccb86ed5899291375f1cf87b5ced484ee77fcc8688a36e319ddfbf4ab8011"
+  },
+  {
     "path": "assets/miyanjing-icon-form-herb.webp",
     "size": 4394,
     "sha256": "eaf6e9da935c37fcc8c49ab8495dac85ad96b97bb767adfaf5406199c12443fd"
@@ -893,6 +1633,11 @@
     "path": "assets/miyanjing-icon-form-hide.webp",
     "size": 4222,
     "sha256": "d77d3cb93c52d163beec6b704866916ccfece52803a2b54716f761891444d938"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-horn.webp",
+    "size": 4908,
+    "sha256": "78894c37be686586ca254d35f204450c29cb3e87f0ef0940ec3ad1a15318cabb"
   },
   {
     "path": "assets/miyanjing-icon-form-jade.webp",
@@ -910,6 +1655,11 @@
     "sha256": "991a48972182fa972365781ea33cf1ad2794c447a9ab5bc1f251f8c8f82d9a22"
   },
   {
+    "path": "assets/miyanjing-icon-form-mane.webp",
+    "size": 4182,
+    "sha256": "699969305c2b7eec50cb8e2fa2f9eab27e743ec5ac1761cd2603fe8d46de685b"
+  },
+  {
     "path": "assets/miyanjing-icon-form-manual.webp",
     "size": 8762,
     "sha256": "87d934048dfa9f1ae70f6bb0bf6b7d8fa02ba1bc610d68e284aa5d867b8bc510"
@@ -920,6 +1670,11 @@
     "sha256": "a753b8bf73fc8056253f7f7cd2a6b513e489f02f6fb2ade7e7cca4f8f2955c2c"
   },
   {
+    "path": "assets/miyanjing-icon-form-membrane.webp",
+    "size": 4052,
+    "sha256": "1730215a2d240bc289f7f75a37ff52805a61cfd644191dcceb57753e84f2da4e"
+  },
+  {
     "path": "assets/miyanjing-icon-form-mirror.webp",
     "size": 10816,
     "sha256": "4ee06b29ed37b4cd831e87dd439f00f684fb84c972c9946d0b2b4819341db53f"
@@ -928,6 +1683,11 @@
     "path": "assets/miyanjing-icon-form-needle.webp",
     "size": 3000,
     "sha256": "1404a47d98caa36236c09c129da9cfd0ccc64f6401f8c77ba1fbdee5bfe5d0ed"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-orb.webp",
+    "size": 5976,
+    "sha256": "8b851a06aca81b36b6c33bd76c5e8eef5125e83ebac1567be377509363d91c0e"
   },
   {
     "path": "assets/miyanjing-icon-form-ore.webp",
@@ -953,6 +1713,11 @@
     "path": "assets/miyanjing-icon-form-pill.webp",
     "size": 6850,
     "sha256": "07f8d17f62e8feb5b661f919a894e48cb12ca635bd7e9a17c017d9bfc47f2550"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-pincer.webp",
+    "size": 4714,
+    "sha256": "49ca48194a17a99f7dc205522c7c725870c7cfd2040118ec6a3d50d66ed4fc95"
   },
   {
     "path": "assets/miyanjing-icon-form-pouch.webp",
@@ -990,14 +1755,29 @@
     "sha256": "09e7dc3293d09fe2d9407e6ad590a653bf72e615283c00192bde98d930664be9"
   },
   {
+    "path": "assets/miyanjing-icon-form-shell.webp",
+    "size": 5400,
+    "sha256": "abe1a909075f6a25aafc8214fc603abf8192f4cdce2acb4c63441d23c79f76f7"
+  },
+  {
     "path": "assets/miyanjing-icon-form-shuttle.webp",
     "size": 4382,
     "sha256": "1e5be921dbd26eb747c585b9c5351a1d7858f8a933a7fd54e21fbd086e953c5e"
   },
   {
+    "path": "assets/miyanjing-icon-form-silk.webp",
+    "size": 6992,
+    "sha256": "ed16dc0aa2bf55a4781a8e565c53d42c7b9184a7a0308c8b603f0b15f43568b8"
+  },
+  {
     "path": "assets/miyanjing-icon-form-spear.webp",
     "size": 2060,
     "sha256": "e52196e26e1f14ef348c5737e90590e1cec66684efed1ee98904ed33cf6d3a07"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-spring.webp",
+    "size": 4544,
+    "sha256": "108b861f246d05056c5c503988670bb7a1aaaa3b2fb7761802f2201ea1d43321"
   },
   {
     "path": "assets/miyanjing-icon-form-stele.webp",
@@ -1015,9 +1795,19 @@
     "sha256": "5c8b0b7c47dc744826aefa7be733a1c5e3098fe76a264ff41a1987c1cb64adcf"
   },
   {
+    "path": "assets/miyanjing-icon-form-tail.webp",
+    "size": 4556,
+    "sha256": "833f44bb6ef141a387cbc41fb51b11ee4fa854ca1e73f659abc131c35c9e58b1"
+  },
+  {
     "path": "assets/miyanjing-icon-form-talisman.webp",
     "size": 4552,
     "sha256": "1d3e65089dbd741ad67d18cb7bfa44b39b3d596c521add60606d6f9f9acbf38e"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-talon.webp",
+    "size": 4584,
+    "sha256": "b8881177de2fd66c196c6e93b7592954fc5a9c4552450ed505f1accef08ab0a4"
   },
   {
     "path": "assets/miyanjing-icon-form-token.webp",
@@ -1030,9 +1820,19 @@
     "sha256": "339fa32355b62698cb0f79e5f393fdeae29fe7806b0944eff0a79b7f52b95eb6"
   },
   {
+    "path": "assets/miyanjing-icon-form-whisker.webp",
+    "size": 4910,
+    "sha256": "dd98542d548764a44b719eea2caac0d5ddab5b0aab8ca97ee9cd4ea1d5c8713a"
+  },
+  {
     "path": "assets/miyanjing-icon-form-wing.webp",
     "size": 5866,
     "sha256": "ecdcc25deff0f45926896f1287a042b7dc4752dc21fdf56a8332852ff2a0a12f"
+  },
+  {
+    "path": "assets/miyanjing-icon-form-wood.webp",
+    "size": 4466,
+    "sha256": "1d464bf6b50bce4e0a66c23277ce846e7d323cb2b6b6f33625be6ae84edebd08"
   },
   {
     "path": "assets/miyanjing-icon-hp.webp",
@@ -1800,9 +2600,24 @@
     "sha256": "f892b2048acd42ea2fa3234ca0a005c75ebca779a2246ff97975d637e6520ffb"
   },
   {
+    "path": "assets/miyanjing-tiles/corridor.webp",
+    "size": 2666,
+    "sha256": "dbcbf3ec06e2d2a643b4f4b8be11067ed57524231d01d0a3d525741294de50e4"
+  },
+  {
     "path": "assets/miyanjing-tiles/danger.webp",
     "size": 3940,
     "sha256": "ea2ca1ec792b55ac7dd7d21a413978e97e2f25f497b55b77d105968f5f8dfe31"
+  },
+  {
+    "path": "assets/miyanjing-tiles/door-h.webp",
+    "size": 3192,
+    "sha256": "6facd4f42de99dbbcb89ac7ed6cd09ec7b98d62e5ad5ccc662108f025dec0e27"
+  },
+  {
+    "path": "assets/miyanjing-tiles/door-v.webp",
+    "size": 4888,
+    "sha256": "736672fc6205650c901e8417607b275667f4cccfa9ebfe6502f52c028f665392"
   },
   {
     "path": "assets/miyanjing-tiles/elite.webp",
@@ -1945,19 +2760,34 @@
     "sha256": "20686037e58c182ecaa16a1e4aac8ba6b828ecc56c5a41d958a0c6852c54e21b"
   },
   {
+    "path": "assets/miyanjing-tiles/wall-1.webp",
+    "size": 6496,
+    "sha256": "9c28bdc255272b5d2c6513db8d33c8b00ee45447554180cdc02eb6713795f20f"
+  },
+  {
+    "path": "assets/miyanjing-tiles/wall-2.webp",
+    "size": 4644,
+    "sha256": "ee90b4c12719626331bd7886362b5ac50c63fb7ea66ea12c8a8fa086d587cf99"
+  },
+  {
+    "path": "assets/miyanjing-tiles/wall-3.webp",
+    "size": 5700,
+    "sha256": "f3f1d3d56c9fc14650f1c2e62f70bdc623e97eda50dcfdac59abf7fa1b73d02b"
+  },
+  {
     "path": "assets/preview/miyanjing-tile-atlas-simple-ink-scaleup-v2.webp",
     "size": 226798,
     "sha256": "b23b2058acfd3eff96c0edc1e7e473bfe9131c4621a33bafaab30786eb94b745"
   },
   {
     "path": "game.bundle.js",
-    "size": 1553655,
-    "sha256": "f2554d58de9f3c26ac0011dce67766d3eecb187b63345b7441368942dc875ab8"
+    "size": 1936554,
+    "sha256": "43e29f637012d51a0ffda632ff73f46cbd8da269eecbdbfad82ff892e6454775"
   },
   {
     "path": "index.html",
-    "size": 2309,
-    "sha256": "756cb9737c718d44fdb082233144ee2889a837c49e8559b30757ba22e62ea694"
+    "size": 2703,
+    "sha256": "15c24e19958285f587b0218d6c04525fda231e3e93aa0a08ce2f6c582121cf87"
   },
   {
     "path": "install-hint.html",
@@ -1976,8 +2806,8 @@
   },
   {
     "path": "runtime.js",
-    "size": 24792,
-    "sha256": "2d9fe197d18fa2da65df5a965dc866294664561830a8901b846e52d268d3bf8d"
+    "size": 28606,
+    "sha256": "7aecad81b2e1f0ce4c2bb6392dc7512a6c9dc6122703195d859c4e5edf009377"
   },
   {
     "path": "sw.js",
@@ -1986,7 +2816,7 @@
   },
   {
     "path": "webp-report.json",
-    "size": 51288,
-    "sha256": "ad056b2ac0339df08d8710856377082a82066d8524b157603870e1baf19d8cc5"
+    "size": 84297,
+    "sha256": "214b1be8869f3c15c9ea1f165854f31431d81b8b3c804a517b9bf780a393ff8e"
   }
 ]

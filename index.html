@@ -11,6 +11,9 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="修仙搜打撤" />
   <link rel="manifest" href="./manifest.webmanifest" />
+  <!-- 显式声明 icon：不写的话浏览器会去要 /favicon.ico，而这个文件不存在，
+       控制台里常年挂着两条 404，把「无控制台报错」这条断言变成永远过不了的门。 -->
+  <link rel="icon" type="image/png" href="./assets/app-icon-192.png" />
   <link rel="apple-touch-icon" href="./assets/app-icon-192.png" />
   <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate" />
   <meta http-equiv="Pragma" content="no-cache" />
@@ -50,8 +53,8 @@
 </head>
 <body>
   <div id="boot">正在加载《修仙搜打撤》...</div>
-  <script src="./game.bundle.js"></script>
-  <script src="./runtime.js"></script>
+  <script src="./game.bundle.js?v=ab7abc9de5"></script>
+  <script src="./runtime.js?v=ab7abc9de5"></script>
   <script>
     if ('serviceWorker' in navigator) {
       if (document.readyState === 'complete' || document.readyState === 'interactive') {
