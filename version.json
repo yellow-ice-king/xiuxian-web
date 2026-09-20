@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T14:26:02.893Z",
-  "version": "20260920.2226",
+  "generatedAt": "2026-09-20T17:04:06.751Z",
+  "version": "20260921.0104",
   "updateUrl": "https://yellow-ice-king.github.io/xiuxian-web/version.json",
   "zipUrl": "https://yellow-ice-king.github.io/xiuxian-web/game.zip",
-  "zipSizeBytes": 55783146,
+  "zipSizeBytes": 55785045,
   "fileCount": 564,
-  "sha256": "5becc0494a17105a3ab8c0b1b566f41df47d031b2a39354701211e4a73ab9e5f"
+  "sha256": "655766ece65fb515258f1da9447408a09f1cc552a0414527d9cdee3382ae7d06"
 }

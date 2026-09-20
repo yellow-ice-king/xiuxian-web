@@ -2781,13 +2781,13 @@
   },
   {
     "path": "game.bundle.js",
-    "size": 1936554,
-    "sha256": "43e29f637012d51a0ffda632ff73f46cbd8da269eecbdbfad82ff892e6454775"
+    "size": 1905211,
+    "sha256": "5cce9a10189d86a12d77c15e9612775004a21dd8a3c08d76113d894b50cdedbc"
   },
   {
     "path": "index.html",
     "size": 2703,
-    "sha256": "15c24e19958285f587b0218d6c04525fda231e3e93aa0a08ce2f6c582121cf87"
+    "sha256": "547e97fa434baeed1a01b947db0ad0c2674f9b6af0a7c872f196d44af65e9920"
   },
   {
     "path": "install-hint.html",
