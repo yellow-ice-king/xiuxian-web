@@ -125,6 +125,106 @@
     "sha256": "0be7041d916d71ba1bf7d8c0beae6e4a24e4f6b4fe6a6a9b4bc54597c7f9c43f"
   },
   {
+    "path": "assets/miyanjing-boss-realm_leader_0.webp",
+    "size": 26504,
+    "sha256": "4fde2801772a2b3ffe539c1b08de5a07d16e2e80404d07820e59d5866afc46eb"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_1.webp",
+    "size": 35304,
+    "sha256": "8e23b01c2e6b702fdfe0a81d1bbc3d9251ab98f6e3d8fbd6a6b100290409886d"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_2.webp",
+    "size": 24776,
+    "sha256": "21d0ea1a57c05b90a473eb2c47fb9882224ac9f3fd50e7e3b0b3a705fb31a2e8"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_3.webp",
+    "size": 29180,
+    "sha256": "efa115c86dcf7386ce495e475230294ee6760130ea8b00935807d391f6c59718"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_4.webp",
+    "size": 35588,
+    "sha256": "1cdd9ddcf3a6a3a6fedb508d5b161e891ceed84a2c8fc2875db5a85ce2ac3ddf"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_5.webp",
+    "size": 24690,
+    "sha256": "1b84aad68537cd9ff0e0cd5a4a1311827ca44de8afc24706e3f387e99455379f"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_6.webp",
+    "size": 29760,
+    "sha256": "fc9bf8c32d83dedd7d6f538da28053d4ae906c8a3ff0dbefc8c3a4c6112fb0b3"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_7.webp",
+    "size": 32336,
+    "sha256": "8f41dac1ab259cefcaf517355a14c13f70bbe1988a96b9e18b4e2e912bea590d"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_8.webp",
+    "size": 28222,
+    "sha256": "4aba8d8c3091f30311a1a9d1e32ad522d51448b859d80c8a24f1c38287d53adb"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_leader_9.webp",
+    "size": 35870,
+    "sha256": "2553b444a0656bc64dec2082e0a6c655f8ec3475cbdafc4386f679dd4b4ef67a"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_0.webp",
+    "size": 29932,
+    "sha256": "691fd3dd348d3506c09490c4ea2acde67c68f0b289ceb259673fe5d065670d35"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_1.webp",
+    "size": 35832,
+    "sha256": "3d00320f7aa64acae06cefe2479262026e6b32f9ce6205c94a6345ac784d7536"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_2.webp",
+    "size": 28224,
+    "sha256": "1b74192b0ef0e37822151703aa2a483a5a0615721c88e102586f90e4faca4a1b"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_3.webp",
+    "size": 37870,
+    "sha256": "50844d4523208093f786aa0cac63475fe4d2384614100985843213f0e2fe124c"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_4.webp",
+    "size": 37720,
+    "sha256": "2f02e5aa747960de69b6248b9c131ae03f128a09b25d14eaf8d31a5f5717469e"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_5.webp",
+    "size": 29782,
+    "sha256": "430c6d194cc980032fb5e69385c205a0ec06d4212f7d4a46cda17050e562040e"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_6.webp",
+    "size": 31480,
+    "sha256": "d8001da0ac5ba22d2215f9db75f553958cb1623b66fb6f2e45e9bef676947760"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_7.webp",
+    "size": 35328,
+    "sha256": "58dc6a95eff8804310f3e3a422d3b19ceb4c61cbf62494b039fe765d48bd4681"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_8.webp",
+    "size": 33524,
+    "sha256": "d464866890ca3f7e2a7ae8f35cdfae8b455f3e0e3e6a791c3df13c959795e944"
+  },
+  {
+    "path": "assets/miyanjing-boss-realm_lord_9.webp",
+    "size": 35074,
+    "sha256": "1e5a24da77160dde943b8a15044f6e648378b4a1c66cf9b92f898bedb45e3a5f"
+  },
+  {
     "path": "assets/miyanjing-boss-shijin_chonghuang.webp",
     "size": 28844,
     "sha256": "fe840a60e8abd68f2ac3798caf5e79f8858a9013bc240441139bdcc686abe241"
@@ -2285,6 +2385,106 @@
     "sha256": "26ad24276fce65540fb9be7172baebb25e926b0aa01b502d10960fe0e6612cee"
   },
   {
+    "path": "assets/miyanjing-scene-realm_leader_0.webp",
+    "size": 238506,
+    "sha256": "502145c00753246aef50be33da75e02e29c84366f5c83c4f73dfbd7737d21226"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_1.webp",
+    "size": 267314,
+    "sha256": "a1babd9d07401cd8e88735b82ab76c81c74b811ee2f9df907d97b475d2af4cd0"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_2.webp",
+    "size": 201600,
+    "sha256": "14293ad7ca13bb4d1533a9c18431753c91ba1bcf1919e54d2538c9a910e031fa"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_3.webp",
+    "size": 234554,
+    "sha256": "4ed065268af5558a17cc48419c88b9df204f91a0d51297ed838c02767d9c3d0b"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_4.webp",
+    "size": 256612,
+    "sha256": "eb11469f5e04fb6a3483212514f51540dce22cd7d96313cfea71c9395f30b160"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_5.webp",
+    "size": 179816,
+    "sha256": "4167c1149cf781e79f0a556469c3c2aa68c2078f64d614c61284a86e43797c13"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_6.webp",
+    "size": 146350,
+    "sha256": "bab5f1ca7abc214e5e35b884751dfda80c3ad1bd2cc9c04c84e013e66c3d2eb9"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_7.webp",
+    "size": 212550,
+    "sha256": "a4c493fc33d653f88dd0762657667f58401574055ab18d629779dbe4a05796f2"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_8.webp",
+    "size": 192280,
+    "sha256": "aa4b1eeb3bd5c817f575af7d7c96fcfe34ff25cf481a46e4260eeca3921c4f03"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_leader_9.webp",
+    "size": 276348,
+    "sha256": "d13a158bcf1dda2a2f01dc085c88e154300e2d7bfc760f38ad34dd57f408187f"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_0.webp",
+    "size": 244094,
+    "sha256": "5df4e2fbbaeaaa9b48b0a84bbfba06642015e208e075014aee751c9f33f390f1"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_1.webp",
+    "size": 257080,
+    "sha256": "7c9cb3fa53d2b7eba9156078fa9cf4b0412a04db8fd046cda5eacc4436d2cbdf"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_2.webp",
+    "size": 231906,
+    "sha256": "3ccb07f32d4e92881eddf39e7c01cb75c0e097a1345dc6afac325d113029c2b6"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_3.webp",
+    "size": 209622,
+    "sha256": "523e9243f69e86b74752f1a2002e7d3f93a2dd308f1da20705478e52c96d7dbe"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_4.webp",
+    "size": 322854,
+    "sha256": "2790ef8c854b05a37d8a1920581fd21d3b1ab7d4be3b6b02821b484f4800d896"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_5.webp",
+    "size": 210192,
+    "sha256": "fcbd862e1d4216dde0eff2a01e6bd3274b9b9ddd50b036adede866e4c781b164"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_6.webp",
+    "size": 197364,
+    "sha256": "31796fd08d4863aa98cdf346d31e875fd1d80a12ada91cfcebe15dafecffad07"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_7.webp",
+    "size": 260348,
+    "sha256": "6146c4188c6d4839ca21daaee0b4163c5c2f9ad4d1b827ef243f7ae791fc5b3b"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_8.webp",
+    "size": 224506,
+    "sha256": "321e18f7fc2622b890f696be93741cbbbecad1d12f7bfcffc14d4716f8d3f5f8"
+  },
+  {
+    "path": "assets/miyanjing-scene-realm_lord_9.webp",
+    "size": 233010,
+    "sha256": "b520f3df884e335a758aced0d0a5d8d734428e299b3389211bbb5722cbd7e4ac"
+  },
+  {
     "path": "assets/miyanjing-scene-santuhe_xiao.webp",
     "size": 219640,
     "sha256": "a970c7b302f22dea10a8867dabe0422f553f06285e461539272613273fb0b55b"
@@ -2781,13 +2981,13 @@
   },
   {
     "path": "game.bundle.js",
-    "size": 1905211,
-    "sha256": "5cce9a10189d86a12d77c15e9612775004a21dd8a3c08d76113d894b50cdedbc"
+    "size": 2001830,
+    "sha256": "b169b5261a734288fb70adbf7bfeaa0a55483b9669f8afec93ce2dec2d8f81e5"
   },
   {
     "path": "index.html",
     "size": 2703,
-    "sha256": "547e97fa434baeed1a01b947db0ad0c2674f9b6af0a7c872f196d44af65e9920"
+    "sha256": "f987b232fcab6ec50c2de87ee74be51bb59610038373505692cecfedb596b102"
   },
   {
     "path": "install-hint.html",
@@ -2816,7 +3016,7 @@
   },
   {
     "path": "webp-report.json",
-    "size": 84297,
-    "sha256": "214b1be8869f3c15c9ea1f165854f31431d81b8b3c804a517b9bf780a393ff8e"
+    "size": 88217,
+    "sha256": "6e0adac05e20d963f7a9a80fcf012958f0d6895b74f911ab6724c5d7a527ef6f"
   }
 ]

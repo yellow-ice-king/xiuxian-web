@@ -1,6 +1,6 @@
 {
-  "totalIn": 140448093,
-  "totalOut": 12605510,
+  "totalIn": 143954696,
+  "totalOut": 13242506,
   "converted": [
     {
       "rel": "assets/miyan-bg-combat.webp",
@@ -126,6 +126,146 @@
       "sourceRel": "assets/miyanjing-boss-realm_boss_9.png",
       "from": 172647,
       "to": 35454,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_0.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_0.png",
+      "from": 154528,
+      "to": 26504,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_1.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_1.png",
+      "from": 172069,
+      "to": 35304,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_2.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_2.png",
+      "from": 155818,
+      "to": 24776,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_3.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_3.png",
+      "from": 174324,
+      "to": 29180,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_4.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_4.png",
+      "from": 188377,
+      "to": 35588,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_5.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_5.png",
+      "from": 153232,
+      "to": 24690,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_6.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_6.png",
+      "from": 161101,
+      "to": 29760,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_7.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_7.png",
+      "from": 178890,
+      "to": 32336,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_8.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_8.png",
+      "from": 162406,
+      "to": 28222,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_leader_9.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_leader_9.png",
+      "from": 186218,
+      "to": 35870,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_0.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_0.png",
+      "from": 180273,
+      "to": 29932,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_1.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_1.png",
+      "from": 185075,
+      "to": 35832,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_2.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_2.png",
+      "from": 167431,
+      "to": 28224,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_3.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_3.png",
+      "from": 199364,
+      "to": 37870,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_4.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_4.png",
+      "from": 194698,
+      "to": 37720,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_5.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_5.png",
+      "from": 164392,
+      "to": 29782,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_6.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_6.png",
+      "from": 167968,
+      "to": 31480,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_7.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_7.png",
+      "from": 198428,
+      "to": 35328,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_8.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_8.png",
+      "from": 184263,
+      "to": 33524,
+      "dim": "256x256"
+    },
+    {
+      "rel": "assets/miyanjing-boss-realm_lord_9.webp",
+      "sourceRel": "assets/miyanjing-boss-realm_lord_9.png",
+      "from": 177748,
+      "to": 35074,
       "dim": "256x256"
     },
     {
@@ -2977,5 +3117,5 @@
     "dynamic elite png -> webp",
     "dynamic id-concat png -> webp x6"
   ],
-  "removed": 418
+  "removed": 438
 }
